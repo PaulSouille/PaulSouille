@@ -19,7 +19,7 @@
 * Javascript
 * **Typescript**
 * Java
-* ~~php~~
+* ~~PHP~~
 
 <br>
 
