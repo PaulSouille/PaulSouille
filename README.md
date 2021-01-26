@@ -19,9 +19,8 @@
 * Javascript
 * **Typescript**
 * Java
-* php[^1]
+* ~~php~~
 
-[^1]: Except when the project started 15 years ago and have no coding rules
 <br>
 
 
