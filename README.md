@@ -2,8 +2,8 @@
 [![Banner](./assets/background.png)](https://paulsouille.fr)
 
 
-# Hi there i'm Paul Souillé, french developper 
-
+# Hi there I'm Paul Souillé, french developper
+I'm student at EPSI and developer for Claranet. Sometimes in my free time I create and sell some websites for people related to video games. I'm esport lover.
 
 
 ## 🔭 I’m currently working with NestJS, Vue and Angular for Claranet
@@ -14,15 +14,28 @@
 
 <img src="./assets/avatar_paul.png" width="150">
 
-## 💼 Some of languages i like to work with
+## 💼 Some of languages I like to work with
 
-* Javascript
-* **Typescript**
-* Java
-* ~~PHP~~
+* <img alt="JS" height="26" src="https://img.icons8.com/color/48/000000/javascript.png"/> Javascript
+* <img alt="TS" height="26" src="https://img.icons8.com/color/48/000000/typescript.png"/> **Typescript**
+* <img alt="Java" height="26" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+* <img alt="PHP" height="26" src="https://img.icons8.com/color/48/000000/php"/> ~~PHP~~
 
 <br>
 
+## 💼 Some of tools or framework I like to work with
+
+* <img alt="Angular" height="26" src="https://img.icons8.com/color/48/000000/angularjs.png"/> Angular
+* <img alt="Vue" height="26" src="https://img.icons8.com/windows/32/000000/vuejs.png"/> Vue
+* <img alt="NestJS" height="26" src="./assets/nestjs.svg"/> Nestjs
+* <img alt="Docker" height="26" src="https://img.icons8.com/color/48/000000/docker.png"/> Docker
+* <img alt="Docker" height="26" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> VSCode
+* <img alt="JS" height="23" src="./assets/rabbitmq.svg"/> RabbitMQ
+* <img alt="JS" height="26" src="https://img.icons8.com/color/48/000000/gitlab.png"/> Gitlab
+
+For any questions don't hesitate to reach me at *paul.souille85@gmail.com*
+
+<br>
 
 ## 📈 My GitHub Stats:
 
