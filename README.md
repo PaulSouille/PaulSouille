@@ -2,7 +2,7 @@
 [![Banner](./assets/background.png)](https://paulsouille.fr)
 
 
-# Hi there i'm Paul Souillé, french developper 
+# Hi there I'm Paul Souillé, french developper 
 
 
 
@@ -14,7 +14,7 @@
 
 <img src="./assets/avatar_paul.png" width="150">
 
-## 💼 Some of languages i like to work with
+## 💼 Some of languages I like to work with
 
 * Javascript
 * **Typescript**
