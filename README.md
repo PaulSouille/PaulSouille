@@ -3,7 +3,8 @@
 
 
 # Hi there I'm Paul Souillé, french developper
-I'm student at EPSI and developer for Claranet. Sometimes in my free time I create and sell some websites for people related to video games. I'm esport lover.
+I'm working for Claranet. Sometimes in my free time I create and sell some stuff for people related to video games. 
+Esport lover.
 
 
 ## 🔭 I’m currently working with NestJS, Vue and Angular for Claranet
