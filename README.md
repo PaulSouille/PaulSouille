@@ -3,11 +3,11 @@
 
 
 # Hi there I'm Paul Souillé, french developper
-I'm working for Claranet. Sometimes in my free time I create and sell some stuff for people related to video games. 
+I'm working for Nickel. Sometimes in my free time I do stuff for people related to video games. 
 Esport lover.
 
 
-## 🔭 I’m currently working with NestJS, Vue and Angular for Claranet
+## 🔭 I’m currently working with Java and react 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/paul-souillé-a08380140/)
 [![Coffee Badge](https://img.shields.io/badge/A%20lot%20of-coffee-orange)](https://paulsouille.fr)
